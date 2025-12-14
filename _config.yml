@@ -3,6 +3,7 @@ collections:
     output: true
 plugins:
   - jekyll-feed
+  - jekyll-git-hash
 theme: kabusin
 scribouilli: true
 baseurl: /ypres
