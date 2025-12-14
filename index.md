@@ -1,13 +1,25 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations"
 order: 0
+in_menu: true
 ---
+Mes logiciels libres, pour les recommander...
 
-C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
-Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Hugo.png">
+    </div>
+    <div>
+      <h2>Hugo</h2>
+      <p>Hugo est un générateur de site Web HTML et CSS statique écrit en Go . Il est très performant.</p>
+      <div>
+        <a href="https://framalibre.org/notices/hugo.html">Vers la notice Framalibre</a>
+        <a href="https://gohugo.io/">Vers le site</a>
+      </div>
+    </div>
+  </article>
 
-Un exemple ci-dessous :
 
 # Mes logiciels libres pour randonner
 
@@ -43,4 +55,4 @@ Quand je fais une pause, j'aime bien écouter un petit podcast avec :
         <a href="http://antennapod.org/">Vers le site</a>
       </div>
     </div>
-  </article>
+  </article> 
